@@ -1,0 +1,23 @@
+{
+  "name": "agenda-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/CamdenClark/agenda-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/CamdenClark/agenda-project/issues"
+  },
+  "homepage": "https://gitlab.com/CamdenClark/agenda-project#README",
+  "dependencies": {
+    "react": "^15.3.0",
+    "shortid": "^2.2.6"
+  }
+}
